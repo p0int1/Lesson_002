@@ -1,0 +1,16 @@
+D:\Projects\Lesson_002\Task_3\bin\Debug\net5.0\Task_3.exe
+D:\Projects\Lesson_002\Task_3\bin\Debug\net5.0\Task_3.deps.json
+D:\Projects\Lesson_002\Task_3\bin\Debug\net5.0\Task_3.runtimeconfig.json
+D:\Projects\Lesson_002\Task_3\bin\Debug\net5.0\Task_3.runtimeconfig.dev.json
+D:\Projects\Lesson_002\Task_3\bin\Debug\net5.0\Task_3.dll
+D:\Projects\Lesson_002\Task_3\bin\Debug\net5.0\ref\Task_3.dll
+D:\Projects\Lesson_002\Task_3\bin\Debug\net5.0\Task_3.pdb
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.csproj.AssemblyReference.cache
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.AssemblyInfoInputs.cache
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.AssemblyInfo.cs
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.csproj.CoreCompileInputs.cache
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.dll
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\ref\Task_3.dll
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.pdb
+D:\Projects\Lesson_002\Task_3\obj\Debug\net5.0\Task_3.genruntimeconfig.cache
